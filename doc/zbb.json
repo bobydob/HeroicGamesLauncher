@@ -1,0 +1,17 @@
+{
+"companyName": "XformGames",
+"productName": "BurninRubber5XS",
+"dataUrl": "https://cdn.jsdelivr.net/gh/bobydob/11@main/granny.data.unityweb",
+"asmCodeUrl": "https://cdn.jsdelivr.net/gh/bobydob/11@main/granny.wasm.code.unityweb",
+"asmFrameworkUrl": "https://cdn.jsdelivr.net/gh/bobydob/HeroicGamesLauncher@main/doc/1granny.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1",
+"totalFile": 2,
+"size": 33572265,
+"split_size": 16786133
+}   
